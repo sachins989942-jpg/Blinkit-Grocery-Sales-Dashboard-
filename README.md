@@ -57,6 +57,10 @@ The dashboard transforms raw sales data into **clear, actionable business insigh
 - Automate insights using **advanced Excel formulas**
 - Rebuild the dashboard in **Power BI** for scalability
 
+## Dashboard
+  <img width="799" height="584" alt="Screenshot 2025-12-23 214237" src="https://github.com/user-attachments/assets/2a9f745f-dfb8-42e7-86eb-8d063b46321d" />
+
+
 ---
 
 📌 *This project was created for learning and portfolio development purposes.*  
