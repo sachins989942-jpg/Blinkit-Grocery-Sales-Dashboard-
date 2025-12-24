@@ -39,7 +39,7 @@ The dashboard transforms raw sales data into **clear, actionable business insigh
 
 ## 📂 Files Included
 - `Blinkit Grocery Sales Dashboard.xlsb` – Interactive Excel dashboard
-- `Blinkit Grocery Sales Data.xlsb` – Sales Data    
+- `Blinkit Grocery Sales Analysis.xlsb` – Sales Data    
 - `Screenshot 2025-12-23 214237.png` – Dashboard preview images 
 
 ---
