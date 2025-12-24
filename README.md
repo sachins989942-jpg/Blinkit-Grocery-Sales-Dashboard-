@@ -1,7 +1,7 @@
 # 📊 Excel Sales Dashboard – Blinkit Grocery Analysis
 
 ## 🔗 Project Repository
-👉 https://github.com/sachins989942-jpg/Blinkit-Grocery-Sales-Dashboard
+👉 https://github.com/sachins989942-jpg/Blinkit-Grocery-Sales-Dashboard-
 
 ---
 
