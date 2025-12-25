@@ -11,6 +11,14 @@ The dashboard transforms raw sales data into **clear, actionable business insigh
 
 ---
 
+## 💼 BUSINESS QUESTIONS
+- What is the overall employee attrition rate in the organization?
+- Which department experiences the highest employee attrition?
+- Which job roles show higher attrition trends?
+- How does salary level impact employee attrition?
+- What is the relationship between employee age, experience, and attrition?
+- How does job satisfaction influence employee attrition?
+
 ## 🛠 Tools & Technologies Used
 - **Microsoft Excel**
 - **Pivot Tables & Pivot Charts**
