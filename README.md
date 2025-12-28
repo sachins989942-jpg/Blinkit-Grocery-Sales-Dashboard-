@@ -12,12 +12,16 @@ The dashboard transforms raw sales data into **clear, actionable business insigh
 ---
 
 ## 💼 BUSINESS QUESTIONS
-- What is the overall employee attrition rate in the organization?
-- Which department experiences the highest employee attrition?
-- Which job roles show higher attrition trends?
-- How does salary level impact employee attrition?
-- What is the relationship between employee age, experience, and attrition?
-- How does job satisfaction influence employee attrition?
+1. Which outlet type is the top performer based on total sales?
+2. Which outlet type has the highest average customer rating?
+3. How do sales differ across different outlet types?
+4. Which outlet type contributes the most to overall sales?
+5. Is the top-selling outlet type also the highest-rated?
+6. How consistent are customer ratings across outlet types?
+7. Which outlet type shows strong customer ratings but lower sales?
+8. What is the overall average customer rating across all outlets?
+9. How much does each outlet type contribute to total business revenue?
+10. Which outlet type should be prioritized for business growth based on sales performance?
 
 ## 🛠 Tools & Technologies Used
 - **Microsoft Excel**
